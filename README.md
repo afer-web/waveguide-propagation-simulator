@@ -9,6 +9,8 @@ Install matplotlib library in you python environment (launch: pip install matplo
 
 Python project for simulating electromagnetic mode propagation (TE/TM) in a rectangular waveguide, with both static field plots and Matplotlib animations.
 
+<img width="1101" height="710" alt="immagine" src="https://github.com/user-attachments/assets/2559c0b9-6662-430e-a8ce-c56d83216bd7" />
+
 ## Technical Description
 
 The simulator computes waveguide modal parameters and field distributions on a 2D cross-section `(x, y)`, while supporting phase evolution through:
