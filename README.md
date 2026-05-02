@@ -2,14 +2,6 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![RF Engineering](https://img.shields.io/badge/RF%20Engineering-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)
 
-#IMPORTANT!
-
-Install matplotlib library in your python environment:
-
-```bash
-pip install matplotlib
-```
-
 # Waveguide Propagation Simulator
 
 Python project for simulating electromagnetic mode propagation (TE/TM) in a rectangular waveguide, with both static field plots and Matplotlib animations.
