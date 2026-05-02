@@ -1,5 +1,5 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-00A86B?style=for-the-badge&logo=plotly&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
 ![RF Engineering](https://img.shields.io/badge/RF%20Engineering-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 #IMPORTANT!
