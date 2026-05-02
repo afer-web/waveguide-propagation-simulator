@@ -3,7 +3,12 @@
 ![RF Engineering](https://img.shields.io/badge/RF%20Engineering-8A2BE2?style=for-the-badge&logo=google-scholar&logoColor=white)
 
 #IMPORTANT!
-Install matplotlib library in you python environment (launch: pip install matplotlib).
+
+Install matplotlib library in your python environment:
+
+```bash
+pip install matplotlib
+```
 
 # Waveguide Propagation Simulator
 
