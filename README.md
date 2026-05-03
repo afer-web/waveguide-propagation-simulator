@@ -78,7 +78,7 @@ Run the main simulation with GUI:
 ```bash
 python gui.py
 ```
-or without GUI
+or without GUI:
 
 ```bash
 python main.py
