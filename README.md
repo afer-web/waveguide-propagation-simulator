@@ -136,13 +136,6 @@ Guided wavenumber beta = 1.582e+02 rad/m
 Guided wavelength lambda_g = 3.971e-02 m
 ```
 
-## Screenshot Placeholder
-
-Replace this section with project screenshots or animation captures:
-
-- `docs/static_te10.png` (placeholder)
-- `docs/animation_te10.gif` (placeholder)
-
 ## Future Extensions
 
 - add full vector field components (`Ex, Ey, Hz` for TE and `Hx, Hy, Ez` for TM)
