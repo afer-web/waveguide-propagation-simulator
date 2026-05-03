@@ -73,15 +73,15 @@ pip install numpy matplotlib
 
 ## How To Run
 
-Run the main simulation:
-
-```bash
-python main.py
-```
-or
+Run the main simulation with GUI:
 
 ```bash
 python gui.py
+```
+or without GUI
+
+```bash
+python main.py
 ```
 
 The default setup in `main.py`:
