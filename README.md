@@ -78,6 +78,11 @@ Run the main simulation:
 ```bash
 python main.py
 ```
+or
+
+```bash
+python gui.py
+```
 
 The default setup in `main.py`:
 
