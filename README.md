@@ -22,6 +22,7 @@ It is designed as a modular codebase:
 - `plot.py`: static `contourf` visualization (`viridis`)
 - `animate.py`: animated propagation with `FuncAnimation`
 - `main.py`: executable entry point and orchestration
+- `gui.py`: graphical interface launcher (Tkinter) with parameter inputs and embedded Matplotlib viewer
 
 ## Textual Formulas Used
 
